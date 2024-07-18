@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <samp>
+    <a href="https://luandev.com.br">website</a> .
+    <a href="https://linkedin.com/in/luuanfaria">linkedin</a> .
+    <a href="https://twitter.com/luuanfariaf">twitter</a> .
+  </samp>
+</p>
 
-<!--
-**luanfariaf/luanfariaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋, I'm Luan Faria a Full Stack Software Engineer.
 
-Here are some ideas to get you started:
+- 🟢 I’m currently available for work.
+- 🌱 I’m currently learning Solidity and Blockchain Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚠️ Warning: I had my primary account hacked `github.com/luuanfaria`. Now this is my only account.
+
