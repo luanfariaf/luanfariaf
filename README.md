@@ -9,7 +9,7 @@
 Hi there 👋, I'm Luan Faria a Full Stack Software Engineer.
 
 - 🟢 I’m currently available for work.
-- 🌱 I’m currently learning Solidity and Blockchain Development.
+- 🌱 I’m currently learning Solidity for Blockchain Development and Web3.
 
 - ⚠️ Warning: I had my primary account hacked `github.com/luuanfaria`. Now this is my only account.
 
