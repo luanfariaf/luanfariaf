@@ -22,4 +22,31 @@ I specialize in leading full-stack development from concept to deployment, with 
 - Solid foundation in **cloud infrastructure (AWS)**, **containerization (Docker)**, and **databases (PostgreSQL, MySQL, Supabase)**.  
 - Committed to **clean architecture, automation**, and optimizing **developer workflows through CI/CD and automated testing**.  
 
-Recently, I’ve been deepening my expertise in **Web3 development**, having deployed tokens and DApps on mainnet, and contributed to freelance projects integrating **crypto payments**
+Recently, I’ve been deepening my expertise in **Web3 development**, having deployed tokens and DApps on mainnet, and contributed to freelance projects integrating **crypto payments and wallet connections** across web and mobile platforms.  
+
+I thrive in autonomous, remote-first environments where collaboration and technical ownership drive real-world impact.  
+Open to opportunities in **Web3 development, DeFi ecosystems, DEX aggregation, AI-driven applications, and scalable software architecture**.  
+
+---
+
+### Tech Stack
+
+**Languages & Frameworks:** TypeScript, JavaScript, React, Next.js, React Native, Node.js, .NET, Solidity  
+**Databases & Infrastructure:** PostgreSQL, MySQL, Supabase, AWS, Docker  
+**Web3 Tools:** ethers.js, Web3.js, Polygon, Ethereum  
+**Practices:** Clean Architecture, CI/CD, Automated Testing, Agile  
+
+---
+
+### Contact
+
+- **Portfolio:** [luuanfaria.dev](https://luuanfaria.dev)  
+- **GitHub:** [github.com/luanfariaf](https://github.com/luanfariaf)  
+- **LinkedIn:** [linkedin.com/in/luuanfaria](https://www.linkedin.com/in/luuanfaria/)  
+- **Email:** [luuan.fariaf@gmail.com](mailto:luuan.fariaf@gmail.com)  
+
+---
+
+<p align="center">
+  <sub>All opinions expressed are my own and do not represent the views of any company or organization I am affiliated with.</sub>
+</p>
