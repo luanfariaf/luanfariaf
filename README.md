@@ -1,34 +1,25 @@
-<h2 align="center">Hey there 👋 I'm Luan Faria</h2>
-<h4 align="center">Fullstack & Web3 Developer • Passionate about React, Solidity, and decentralized tech.</h4>
-<p align="center"> 
-  <a href="https://linkedin.com/in/luuanfaria" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/luanfariaf" target="blank"><img src="https://img.shields.io/twitter/follow/luanfariaf?logo=x&style=for-the-badge" alt="Twitter" /></a>
+<h2 align="center">Hi, I'm Luan Faria</h2>
+<h4 align="center">Full-Stack & Web3 Engineer</h4>
+<p align="center">Building scalable systems with React, Node.js, Solidity, and TypeScript.<br>Exploring the intersection of decentralization, AI, and modern software architecture.</p>
+<p align="center">
+  <a href="https://github.com/luanfariaf" target="_blank">GitHub</a> •
+  <a href="https://luuanfaria.dev" target="_blank">Portfolio</a> •
+  <a href="mailto:luuan.fariaf@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/luuanfaria/" target="_blank">LinkedIn</a>
 </p>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=luanfariaf&label=Profile%20Visits&color=blueviolet&style=flat&abbreviated=true" alt="profile views" /> 
-</p>
 
-<table>
-  <tbody align="left">
-    <th width="50%">
+---
 
-- 🔭 I’m currently working on **Web3 applications** integrating **smart contracts, NFTs and payment systems** (Polygon, Ethereum, Solidity + ethers.js).  
-- 💻 6+ years of experience building scalable **React / React Native / Node.js** applications.  
-- ⚙️ Passionate about **clean architecture**, **code quality**, and **software design principles**.  
-- 🧠 Currently studying **Artificial Intelligence & Automation** and **Blockchain & Digital Currency at UNIC**.  
-- 💬 Ask me about **React, Next.js, Solidity, Smart Contracts, or system architecture**.  
-- ⚡ Fun fact: **I’m driven by curiosity. I love experimenting with new technologies that merge Web3 & AI.**  
+### About Me
 
-</th><th>
+I specialize in leading full-stack development from concept to deployment, with a strong focus on building high-quality, scalable web and mobile applications. My current role involves architecting and maintaining production systems, managing CI/CD pipelines, and guiding teams through best practices and code reviews.  
 
-- 🌍 Working remotely with international teams (🇧🇷 → 🌎).  
-- 📚 Constant learner — exploring **AI integrations with decentralized systems**.  
-- 📫 Reach me directly via [Email](mailto:luuan.fariaf@gmail.com).  
-- 🤝 Let’s collaborate! You can schedule a quick chat on [cal.com](https://calendar.app.google/hQ46gMsCuLcMpduW7).  
-- ✍🏼 Follow me on [X](https://twitter.com/luanfariaf) or connect on [LinkedIn](https://linkedin.com/in/luanfariaf).  
+### What I Bring to the Table
 
-</th>
-  </tbody>
-</table>
+- 6+ years of hands-on experience developing and maintaining production-grade applications using **React, React Native, Node.js, and TypeScript**.  
+- Proven ability to design and deploy **end-to-end features** focused on performance, reliability, and maintainability.  
+- Practical experience integrating **wallet connections, smart contracts, and blockchain interactions** (Polygon, Ethereum) with **Solidity, ethers.js, and Web3.js**.  
+- Solid foundation in **cloud infrastructure (AWS)**, **containerization (Docker)**, and **databases (PostgreSQL, MySQL, Supabase)**.  
+- Committed to **clean architecture, automation**, and optimizing **developer workflows through CI/CD and automated testing**.  
 
-
+Recently, I’ve been deepening my expertise in **Web3 development**, having deployed tokens and DApps on mainnet, and contributed to freelance projects integrating **crypto payments**
