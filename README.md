@@ -8,20 +8,20 @@ Senior Full-Stack Engineer specializing in **Next.js, Node.js, and Solidity**. C
 
 ### 🚀 High-Impact Experience
 
-* **Squad Leadership:** Technical lead for high-scale platforms, managing 2.5M+ synchronized requests with zero downtime[cite: 10, 13, 19].
-* **Web3 & DeFi:** Hands-on experience with Solidity, Smart Contracts (ERC-20, 721, 1155), and wallet integration (MetaMask/WalletConnect)[cite: 10, 42, 87].
-* **Scalability:** Proven track record in architecting distributed systems, CI/CD pipelines, and cloud infrastructure on AWS/Azure[cite: 10, 15, 21].
-* **Quality:** Strong background in Clean Code, Clean Architecture, and automated testing (Jest, Vitest, Cypress)[cite: 10, 15, 55, 79].
+* **Squad Leadership:** Technical lead for high-scale platforms, managing 2.5M+ synchronized requests with zero downtime.
+* **Web3 & DeFi:** Hands-on experience with Solidity, Smart Contracts (ERC-20, 721, 1155), and wallet integration (MetaMask/WalletConnect).
+* **Scalability:** Proven track record in architecting distributed systems, CI/CD pipelines, and cloud infrastructure on AWS/Azure.
+* **Quality:** Strong background in Clean Code, Clean Architecture, and automated testing (Jest, Vitest, Cypress).
 
 ---
 
 ### 🛠 Tech Stack
 
-* **Languages:** TypeScript, JavaScript, Solidity, SQL[cite: 10, 36, 42].
-* **Frontend:** React, Next.js, React Native, Tailwind CSS[cite: 10, 37].
-* **Backend:** Node.js, NestJS, PostgreSQL, Supabase[cite: 10, 38].
-* **Web3:** Ethers.js, Hardhat, EVM, Wallet Integration[cite: 10, 42, 87].
-* **Infrastructure/Ops:** Docker, AWS, Azure, CI/CD, Datadog[cite: 10, 22, 39, 40].
+* **Languages:** TypeScript, JavaScript, Solidity, SQL.
+* **Frontend:** React, Next.js, React Native, Tailwind CSS.
+* **Backend:** Node.js, NestJS, PostgreSQL, Supabase.
+* **Web3:** Ethers.js, Hardhat, EVM, Wallet Integration.
+* **Infrastructure/Ops:** Docker, AWS, Azure, CI/CD, Datadog, Sentry.
 
 ---
 
@@ -35,9 +35,9 @@ Senior Full-Stack Engineer specializing in **Next.js, Node.js, and Solidity**. C
 
 ### 🎓 Education & Certifications
 
-* [cite_start]**B.S. in Software Engineering (Blockchain focus)** - In progress[cite: 10, 53, 216].
-* [cite_start]**Clean Code & Clean Architecture Specialist**[cite: 10, 55, 79].
-* [cite_start]**Solidity 101 Certified**[cite: 10, 56, 78].
+* **B.S. in Software Engineering (IA, Digital Automation & Blockchain focus)** - In progress.
+* [cite_start]**Clean Code & Clean Architecture Specialist**.
+* [cite_start]**Solidity 101 Certified**.
 
 ---
 
