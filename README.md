@@ -1,52 +1,46 @@
-<h2 align="center">Hi, I'm Luan Faria</h2>
-<h4 align="center">Full-Stack & Web3 Engineer</h4>
-<p align="center">Building scalable systems with React, Node.js, Solidity, and TypeScript.<br>Exploring the intersection of decentralization, AI, and modern software architecture.</p>
-<p align="center">
-  <a href="https://github.com/luanfariaf" target="_blank">GitHub</a> •
-  <a href="https://luuanfaria.dev" target="_blank">Portfolio</a> •
-  <a href="mailto:luuan.fariaf@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/luuanfaria/" target="_blank">LinkedIn</a>
-</p>
+# Luan Faria | Senior Software Engineer & Squad Leader
+
+Senior Full-Stack Engineer specializing in **Next.js, Node.js, and Solidity**. Currently leading international operations at **Allsetra B.V. (Netherlands)**, architecting systems that manage **2.5M+ real-time requests**.
+
+[LinkedIn](https://www.linkedin.com/in/luuanfaria/) • [Portfolio](https://luandev.com.br) • [GitHub](https://github.com/luanfariaf) • [Email](mailto:luuan.fariaf@gmail.com)
 
 ---
 
-### About Me
+### 🚀 High-Impact Experience
 
-I specialize in leading full-stack development from concept to deployment, with a strong focus on building high-quality, scalable web and mobile applications. My current role involves architecting and maintaining production systems, managing CI/CD pipelines, and guiding teams through best practices and code reviews.  
-
-### What I Bring to the Table
-
-- 6+ years of hands-on experience developing and maintaining production-grade applications using **React, React Native, Node.js, and TypeScript**.  
-- Proven ability to design and deploy **end-to-end features** focused on performance, reliability, and maintainability.  
-- Practical experience integrating **wallet connections, smart contracts, and blockchain interactions** (Polygon, Ethereum) with **Solidity, ethers.js, and Web3.js**.  
-- Solid foundation in **cloud infrastructure (AWS)**, **containerization (Docker)**, and **databases (PostgreSQL, MySQL, Supabase)**.  
-- Committed to **clean architecture, automation**, and optimizing **developer workflows through CI/CD and automated testing**.  
-
-Recently, I’ve been deepening my expertise in **Web3 development**, having deployed tokens and DApps on mainnet, and contributed to freelance projects integrating **crypto payments and wallet connections** across web and mobile platforms.  
-
-I thrive in autonomous, remote-first environments where collaboration and technical ownership drive real-world impact.  
-Open to opportunities in **Web3 development, DeFi ecosystems, DEX aggregation, AI-driven applications, and scalable software architecture**.  
+* **Squad Leadership:** Technical lead for high-scale platforms, managing 2.5M+ synchronized requests with zero downtime[cite: 10, 13, 19].
+* **Web3 & DeFi:** Hands-on experience with Solidity, Smart Contracts (ERC-20, 721, 1155), and wallet integration (MetaMask/WalletConnect)[cite: 10, 42, 87].
+* **Scalability:** Proven track record in architecting distributed systems, CI/CD pipelines, and cloud infrastructure on AWS/Azure[cite: 10, 15, 21].
+* **Quality:** Strong background in Clean Code, Clean Architecture, and automated testing (Jest, Vitest, Cypress)[cite: 10, 15, 55, 79].
 
 ---
 
-### Tech Stack
+### 🛠 Tech Stack
 
-**Languages & Frameworks:** TypeScript, JavaScript, React, Next.js, React Native, Node.js, .NET, Solidity  
-**Databases & Infrastructure:** PostgreSQL, MySQL, Supabase, AWS, Docker  
-**Web3 Tools:** ethers.js, Web3.js, Polygon, Ethereum  
-**Practices:** Clean Architecture, CI/CD, Automated Testing, Agile  
+* **Languages:** TypeScript, JavaScript, Solidity, SQL[cite: 10, 36, 42].
+* **Frontend:** React, Next.js, React Native, Tailwind CSS[cite: 10, 37].
+* **Backend:** Node.js, NestJS, PostgreSQL, Supabase[cite: 10, 38].
+* **Web3:** Ethers.js, Hardhat, EVM, Wallet Integration[cite: 10, 42, 87].
+* **Infrastructure/Ops:** Docker, AWS, Azure, CI/CD, Datadog[cite: 10, 22, 39, 40].
 
 ---
 
-### Contact
+### 🧪 Web3 Labs & Projects
 
-- **Portfolio:** [luuanfaria.dev](https://luuanfaria.dev)  
-- **GitHub:** [github.com/luanfariaf](https://github.com/luanfariaf)  
-- **LinkedIn:** [linkedin.com/in/luuanfaria](https://www.linkedin.com/in/luuanfaria/)  
-- **Email:** [luuan.fariaf@gmail.com](mailto:luuan.fariaf@gmail.com)  
+* **[DonationWithCrypto](https://github.com/luanfariaf/smart-contract-showcase):** A live decentralized platform for crypto donations using Solidity & Next.js.
+* **[Protochain](https://github.com/luanfariaf/monorepo-web3-protochain):** A full blockchain simulator to demonstrate consensus and hashing mechanics.
+* **[Bank-Transactions](https://github.com/luanfariaf/bank-transactions-solidity):** Secure financial transaction logic on the EVM.
+
+---
+
+### 🎓 Education & Certifications
+
+* [cite_start]**B.S. in Software Engineering (Blockchain focus)** - In progress[cite: 10, 53, 216].
+* [cite_start]**Clean Code & Clean Architecture Specialist**[cite: 10, 55, 79].
+* [cite_start]**Solidity 101 Certified**[cite: 10, 56, 78].
 
 ---
 
 <p align="center">
-  <sub>All opinions expressed are my own and do not represent the views of any company or organization I am affiliated with.</sub>
+  <sub>Squad Leader @ Allsetra B.V. | Founder @ Leadata</sub>
 </p>
